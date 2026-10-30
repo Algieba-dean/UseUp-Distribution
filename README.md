@@ -4,7 +4,7 @@ UseUp 是一款专为家庭食品防浪费与物品保质期管理打造的本�
 
 本项目为 UseUp 官方公开发行、版本发布、问题反馈与用户社区中心。主工程源码维护于私有代码库，所有正式版本安装包、更新日志与公开讨论均在此处集中维护。
 
-官方网站：https://algieba-dean.github.io/useup_site/
+官方网站：https://useup.algieba12.cn/
 
 ---
 
