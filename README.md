@@ -39,19 +39,11 @@ UseUp 坚定秉持本地优先与数据自由原则：
 ### 100% 核心功能永久免费承诺
 所有的物品记录、保质期到期提醒、局域网 P2P 极速同步、条码识别模版与多尺寸桌面小组件，过去、现在与未来均 100% 免费，绝不设置任何强制收费或功能硬锁死。
 
-### 极客赞助者阶梯（自愿赞助）
-如果您认可 UseUp 的独立开发理念与隐私承诺，欢迎通过以下通道支持开发：
-
-1. 一杯咖啡打赏 (Tip Jar)：支持独立开发者的持续无服务器架构维护。
-2. 纯净黄金会员 (Golden Pass)：一次性买断永久移除应用内全部原生横幅与激励广告。
-3. 终身极客赞助者 (Lifetime Geek Supporter)：专属金色桌面小组件铭牌、专属应用图标切换、优先跟进新功能需求。
-
-### 离线激活码兑换机制
-赞助完成后，支持者将获得基于 HMAC-SHA256 签名的专属离线激活码（格式如 `UP-CHANNEL-YYMM-XXXX`）。在 App 内直接输入即可离线激活特权，无需联网校验，真正守护零云端隐私。
+### 独立开发者创作者支持
+UseUp 坚守本地优先与核心功能完全免费的长期承诺，会员赞助体系正在筹备中。如果您希望支持独立开发，欢迎访问开发者的官方创作者主页：
 
 * 爱发电个人主页：[爱发电官方主页 (https://afdian.com/a/algieba12)](https://afdian.com/a/algieba12)
 * 面包多个人主页：[面包多主页 (https://mbd.pub/o/author-bW2Zm29nZw==/work)](https://mbd.pub/o/author-bW2Zm29nZw==/work)
-* 海外赞助平台：[Paddle 官方结账通道 (https://algieba-dean.github.io/useup_site/#sponsorship)](https://algieba-dean.github.io/useup_site/#sponsorship) / Google Play 官方内购
 
 ---
 

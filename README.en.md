@@ -39,19 +39,11 @@ UseUp strictly adheres to the principle of local-first privacy and data freedom:
 ### 100% Core Features Free Forever Promise
 All core inventory tracking, expiration notifications, local P2P sync, barcode templates, and multi-size desktop widgets are and will always remain 100% free with no functional lockouts.
 
-### Geek Supporter Tiers (Voluntary Support)
-If you appreciate our independent development philosophy and privacy commitment, you are welcome to support development through the following channels:
-
-1. Coffee Supporter (Tip Jar): Support independent developer maintenance and server-free architecture.
-2. Golden Pass (Ad-Free): One-time purchase to permanently remove all native banner and rewarded ads across devices.
-3. Lifetime Geek Supporter: Exclusive golden desktop widget frame, supporter app icon switcher, and high-priority feature request handling.
-
-### Offline License Activation Mechanism
-Upon support, patrons receive an offline license key based on HMAC-SHA256 signature verification (format: `UP-CHANNEL-YYMM-XXXX`). Enter the key in App Settings to activate features permanently offline without contacting any external server.
+### Creator & Independent Developer Support
+UseUp is dedicated to a local-first architecture and 100% free core capabilities. The supporter membership program is currently in preparation. To support independent development, feel free to visit the developer's official creator profiles:
 
 * Afdian Creator Profile: [Official Afdian (https://afdian.com/a/algieba12)](https://afdian.com/a/algieba12)
 * Mianbaoduo Creator Profile: [Official Mianbaoduo (https://mbd.pub/o/author-bW2Zm29nZw==/work)](https://mbd.pub/o/author-bW2Zm29nZw==/work)
-* Overseas Payment Channel: [Paddle Official Checkout (https://algieba-dean.github.io/useup_site/#sponsorship)](https://algieba-dean.github.io/useup_site/#sponsorship) / Google Play In-App Purchase
 
 ---
 
