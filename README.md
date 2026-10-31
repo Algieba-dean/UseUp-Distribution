@@ -47,8 +47,9 @@ UseUp 坚定秉持本地优先与数据自由原则：
 ### 离线激活码兑换机制
 赞助完成后，支持者将获得基于 HMAC-SHA256 签名的专属离线激活码（格式如 `UP-CHANNEL-YYMM-XXXX`）。在 App 内直接输入即可离线激活特权，无需联网校验，真正守护零云端隐私。
 
-* 国内赞助平台：[爱发电官方主页 (https://afdian.com/a/algieba12)](https://afdian.com/a/algieba12)
-* 海外赞助平台：[Buy Me a Coffee (buymeacoffee.com/useup)](https://buymeacoffee.com/useup) / Google Play 官方内购
+* 国内商业收款与支持（微信支付 / 支付宝官方工坊）：[面包多官方工坊 (https://mbd.pub/o/author-bW2Zm29nZw==/work)](https://mbd.pub/o/author-bW2Zm29nZw==/work)
+* 国内备用赞助平台：[爱发电官方主页 (https://afdian.com/a/algieba12)](https://afdian.com/a/algieba12)
+* 海外商业收款与支持（信用卡 / PayPal / Apple Pay / Google Pay）：[Paddle 官方结账通道 (https://algieba-dean.github.io/useup_site/#sponsorship)](https://algieba-dean.github.io/useup_site/#sponsorship) / Google Play 官方内购
 
 ---
 
