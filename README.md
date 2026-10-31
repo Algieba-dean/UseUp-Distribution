@@ -1,5 +1,7 @@
 # UseUp 公开发行与支持中心 (UseUp Public Distribution Hub)
 
+[简体中文](README.md) | [English](README.en.md)
+
 UseUp 是一款专为家庭食品防浪费与物品保质期管理打造的本地优先、零云端隐私工具。
 
 本项目为 UseUp 官方公开发行、版本发布、问题反馈与用户社区中心。主工程源码维护于私有代码库，所有正式版本安装包、更新日志与公开讨论均在此处集中维护。
@@ -24,7 +26,7 @@ UseUp 是一款专为家庭食品防浪费与物品保质期管理打造的本�
 
 | 平台 | 下载渠道 | 当前状态 | 说明 |
 | :--- | :--- | :--- | :--- |
-| Android | [GitHub Releases 直链下载](https://github.com/Algieba-dean/UseUp-Distribution/releases/latest) | 稳定版 v1.1.10 | 纯净无广告官方安装包 (APK)，国内用户推荐 |
+| Android | [GitHub Releases 直链下载](https://github.com/Algieba-dean/UseUp-Distribution/releases/latest) | 稳定版 v1.1.10 | 官方直接分发安装包 (APK)，国内网络环境推荐直接下载 |
 | Android | [Google Play 商店](https://play.google.com/store/apps/details?id=com.algieba.useup) | 已上架 | 官方应用市场直接安装与自动更新 |
 | iOS | Apple App Store | 审核中 | iOS 客户端正处于商店提审流程中，敬请期待 |
 
