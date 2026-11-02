@@ -26,7 +26,7 @@ UseUp 是一款专为家庭食品防浪费与物品保质期管理打造的本�
 
 | 平台 | 下载渠道 | 当前状态 | 说明 |
 | :--- | :--- | :--- | :--- |
-| Android | [GitHub Releases 直链下载](https://github.com/Algieba-dean/UseUp-Distribution/releases/latest) | 稳定版 v1.1.10 | 官方直接分发安装包 (APK)，国内网络环境推荐直接下载 |
+| Android | [GitHub Releases 直链下载](https://github.com/Algieba-dean/UseUp-Distribution/releases/latest) | 稳定版 v1.1.11 | 官方直接分发安装包 (APK)，国内网络环境推荐直接下载 |
 | Android | [Google Play 商店](https://play.google.com/store/apps/details?id=com.algieba.useup) | 已上架 | 官方应用市场直接安装与自动更新 |
 | iOS | Apple App Store | 审核中 | iOS 客户端正处于商店提审流程中，敬请期待 |
 

@@ -26,7 +26,7 @@ Official Website: https://algieba-dean.github.io/useup_site/
 
 | Platform | Channel | Current Status | Notes |
 | :--- | :--- | :--- | :--- |
-| Android | [GitHub Releases Direct Download](https://github.com/Algieba-dean/UseUp-Distribution/releases/latest) | Stable v1.1.10 | Official direct APK package, recommended for environments without Google Play access |
+| Android | [GitHub Releases Direct Download](https://github.com/Algieba-dean/UseUp-Distribution/releases/latest) | Stable v1.1.11 | Official direct APK package, recommended for environments without Google Play access |
 | Android | [Google Play Store](https://play.google.com/store/apps/details?id=com.algieba.useup) | Live | Official app marketplace installation and automatic updates |
 | iOS | Apple App Store | Under Review | iOS client is currently undergoing the store review process |
 
